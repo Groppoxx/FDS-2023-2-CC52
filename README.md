@@ -2,13 +2,13 @@
   <img src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png" alt="Logo"  width="150" height="150">
 </p>
 
-Curso:
+**Curso:**
 CC216 – Fundamentos de Data Science – CC52
 
-Trabajo Final:
+**Trabajo Final:**
 Tendencias de los videos de YouTube en México (MX)
 
-Profesora:
+**Profesora:**
 Nérida Isabel Manrique Tunque
 
 
@@ -19,7 +19,7 @@ Nérida Isabel Manrique Tunque
 4. [Conclusiones](#)
 
 ## Objetivo del proyecto
-El proyecto tiene como objetivo principal analizar las tendencias de los videos de YouTube en México, con el fin de proporcionar información valiosa a una consultora internacional con sede en Lima y a su cliente, una destacada empresa de marketing digital. Se busca obtener respuestas a diversas preguntas específicas que son fundamentales para satisfacer las necesidades informativas del cliente en relación con el mercado mexicano. Este análisis profundo busca brindar un conocimiento integral de las tendencias en videos de YouTube, contribuyendo así a la toma de decisiones estratégicas de la consultora y su cliente en el ámbito de la mercadotecnia digital. Las respuestas a las siguientes preguntas son fundamentales para complementar el conocimiento que se pretende estimar.
+El proyecto tiene como objetivo principal analizar las tendencias de los videos de YouTube en México, con el fin de proporcionar información valiosa a una consultora internacional con sede en Lima y a su cliente, una destacada empresa de marketing digital. Se busca obtener respuestas a diversas preguntas específicas que son fundamentales para satisfacer las necesidades informativas del cliente en relación con el mercado mexicano. Este análisis profundo busca brindar un conocimiento integral de las tendencias en videos de YouTube, contribuyendo así a la toma de decisiones estratégicas de la consultora y su cliente en el ámbito de la mercadotecnia digital. Las respuestas a las siguientes preguntas son fundamentales para complementar el conocimiento que se pretende estimar:
 
 **Por Categoría de Videos:**
 * ¿Qué categorías de videos son las de mayor tendencia?
