@@ -20,6 +20,7 @@ Nérida Isabel Manrique Tunque
 
 ## Objetivo del proyecto
 El proyecto tiene como objetivo principal analizar las tendencias de los videos de YouTube en México, con el fin de proporcionar información valiosa a una consultora internacional con sede en Lima y a su cliente, una destacada empresa de marketing digital. Se busca obtener respuestas a diversas preguntas específicas que son fundamentales para satisfacer las necesidades informativas del cliente en relación con el mercado mexicano. Este análisis profundo busca brindar un conocimiento integral de las tendencias en videos de YouTube, contribuyendo así a la toma de decisiones estratégicas de la consultora y su cliente en el ámbito de la mercadotecnia digital. Las respuestas a las siguientes preguntas son fundamentales para complementar el conocimiento que se pretende estimar:
+
 **Por Categoría de Videos:**
 * ¿Qué categorías de videos son las de mayor tendencia?
 * ¿Cuáles son las categorías de videos más y menos apreciadas?
