@@ -2,11 +2,11 @@
   <img src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png" alt="Logo"  width="150" height="150">
 </p>
 Universidad Peruana De Ciencias Aplicadas
-* Curso:
+Curso:
 CC216 – Fundamentos de Data Science – CC52
-* Trabajo Final:
+Trabajo Final:
 Tendencias de los videos de YouTube en México (MX)
-* Profesora:
+Profesora:
 Nérida Isabel Manrique Tunque
 
 
