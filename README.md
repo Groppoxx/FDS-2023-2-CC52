@@ -6,10 +6,12 @@
 
 **Curso:**
 CC216 – Fundamentos de Data Science – CC52
+
 **Sede Monterrico**
 
 **Trabajo Final:**
 Creación de Conocimiento Aplicando la Metodología CRISP – DM
+
 Tendencias de los videos de YouTube en México (MX)
 
 **Profesora:**
@@ -19,9 +21,9 @@ Nérida Isabel Manrique Tunque
 </p>
 
 ## Indice
-1. [Objetivo del proyecto](#Objetivo del proyecto)
-2. [Integrantes del grupo](#Integrantes del grupo)
-3. [Descripción del conjunto de datos](#Descripción del conjunto de datos)
+1. [Objetivo del proyecto](#Objetivodelproyecto)
+2. [Integrantes del grupo](#Integrantesdelgrupo)
+3. [Descripción del conjunto de datos](#Descripcióndelconjuntodedatos)
 4. [Conclusiones](#Conclusiones)
 
 ## Objetivo del proyecto
