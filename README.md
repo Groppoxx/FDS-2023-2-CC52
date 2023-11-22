@@ -46,17 +46,15 @@ El proyecto tiene como objetivo principal analizar las tendencias de los videos 
 * ¿Los videos en tendencia son los que mayor cantidad de comentarios positivos reciben?
 
 ## Integrantes del grupo
-<p align="center">
 **Alumnos:**
 | **Apellidos y Nombres** | **Código** | 
 | :-------- | :------- |
 | Alvarez Orellana Iam Anthony Marcelo | u202118258 | 
 | Angel Ruben Zuñiga Lovera | u202111299 |
 | Angel Ruben Zuñiga Lovera | u20191B823 | 
-</p>
 
-##Descripción del conjunto de datos
-***Tabla 2: Descripción de Variables del Conjunto de Datos “MXvideos_cc50_202101.csv"***
+## Descripción del conjunto de datos
+**Tabla 2: Descripción de Variables del Conjunto de Datos “MXvideos_cc50_202101.csv"**
 | Variable               | Descripción                                              |
 |------------------------|----------------------------------------------------------|
 | video_id               | Identificador único del video en YouTube                 |
