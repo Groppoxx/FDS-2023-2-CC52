@@ -56,7 +56,6 @@ El proyecto tiene como objetivo principal analizar las tendencias de los videos 
 </p>
 
 ##Descripción del conjunto de datos
-<p align="center">
 ***Tabla 2: Descripción de Variables del Conjunto de Datos “MXvideos_cc50_202101.csv"***
 | Variable               | Descripción                                              |
 |------------------------|----------------------------------------------------------|
@@ -81,6 +80,6 @@ El proyecto tiene como objetivo principal analizar las tendencias de los videos 
 | lon                    | Longitud geográfica de la ubicación del estado           |
 | geometry               | Información de geometría                                 |
 **Fuente: Elaboración propia**
-</p>
+
 ## Conclusiones
 En conclusión, el proyecto de Data Science para analizar las tendencias de videos en YouTube ha proporcionado valiosas respuestas gracias a la aplicación de técnicas especializadas de Análisis de Series Temporales, particularmente utilizando el modelo ARIMA. Sin embargo, es crucial destacar que en el proceso de obtener insights, la perseverancia es clave. La naturaleza iterativa del proyecto sugiere la importancia de revisar y reflexionar sobre las decisiones tomadas en cada etapa, especialmente considerando la metodología CRISP-DM. Si algún insight no es evidente de inmediato, la revisión cuidadosa de pasos anteriores puede revelar áreas de mejora en la salida del modelo, permitiendo ajustes significativos para una mejor comprensión de las tendencias de los videos en YouTube. La iteración y la reflexión continua son elementos esenciales para maximizar la eficacia y el valor del modelo creado en este proyecto.
