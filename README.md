@@ -5,19 +5,23 @@
 **Universidad Peruana De Ciencias Aplicadas**
 
 **Curso:**
+
 CC216 – Fundamentos de Data Science – CC52
 
 **Sede Monterrico**
 
 **Trabajo Final:**
+
 Creación de Conocimiento Aplicando la Metodología CRISP – DM
 
 Tendencias de los videos de YouTube en México (MX)
 
 **Profesora:**
+
 Nérida Isabel Manrique Tunque
 
 **19 de noviembre del 2023**
+
 </p>
 
 ## Indice
@@ -79,6 +83,7 @@ El proyecto tiene como objetivo principal analizar las tendencias de los videos 
 | lat                    | Latitud geográfica de la ubicación del estado            |
 | lon                    | Longitud geográfica de la ubicación del estado           |
 | geometry               | Información de geometría                                 |
+
 **Fuente: Elaboración propia**
 
 ## Conclusiones
