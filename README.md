@@ -4,8 +4,10 @@
 
 Curso:
 CC216 – Fundamentos de Data Science – CC52
+
 Trabajo Final:
 Tendencias de los videos de YouTube en México (MX)
+
 Profesora:
 Nérida Isabel Manrique Tunque
 
