@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png" alt="Logo"  width="150" height="150">
 </p>
-*Universidad Peruana De Ciencias Aplicadas*
 
 Curso:
 CC216 – Fundamentos de Data Science – CC52
