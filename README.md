@@ -2,19 +2,19 @@
   <img src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png" alt="Logo"  width="150" height="150">
 </p>
 
-<p align="center">
-<strong>Universidad Peruana De Ciencias Aplicadas</strong>
+<p style="text-align: center;">
+<strong>Universidad Peruana De Ciencias Aplicadas</strong> <br>
 
-<strong>Curso:</strong>
-CC216 – Fundamentos de Data Science – CC52
-<strong>Sede Monterrico</strong>
+<strong>Curso:</strong> <br>
+CC216 – Fundamentos de Data Science – CC52 <br>
+<strong>Sede Monterrico</strong> <br>
 
-<strong>Trabajo Final:</strong>
-Creación de Conocimiento Aplicando la Metodología CRISP – DM
-Tendencias de los videos de YouTube en México (MX)
+<strong>Trabajo Final:</strong> <br>
+Creación de Conocimiento Aplicando la Metodología CRISP – DM <br>
+Tendencias de los videos de YouTube en México (MX) <br>
 
-<strong>Profesora:</strong>
-Nérida Isabel Manrique Tunque
+<strong>Profesora:</strong> <br>
+Nérida Isabel Manrique Tunque <br>
 
 <strong>19 de noviembre del 2023</strong>
 </p>
