@@ -13,9 +13,9 @@ Nérida Isabel Manrique Tunque
 
 
 ## Indice
-1. [Objetivo del proyecto](#Objetivodelproyecto)
-2. [Integrantes del grupo](#Integrantesdelgrupo)
-3. [Descripción del conjunto de datos](#Descripcióndelconjuntodedatos)
+1. [Objetivo del proyecto](#Objetivo del proyecto)
+2. [Integrantes del grupo](#Integrantes del grupo)
+3. [Descripción del conjunto de datos](#Descripción del conjunto de datos)
 4. [Conclusiones](#Conclusiones)
 
 ## Objetivo del proyecto
