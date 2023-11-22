@@ -3,25 +3,33 @@
 </p>
 <p align="center">
 **Universidad Peruana De Ciencias Aplicadas**
-
+</p>
+<p align="center">
 **Curso:**
-
+</p>
+<p align="center">
 CC216 – Fundamentos de Data Science – CC52
-
+  </p>
+<p align="center">
 **Sede Monterrico**
-
+</p>
+<p align="center">
 **Trabajo Final:**
-
+</p>
+<p align="center">
 Creación de Conocimiento Aplicando la Metodología CRISP – DM
-
+</p>
+<p align="center">
 Tendencias de los videos de YouTube en México (MX)
-
+</p>
+<p align="center">
 **Profesora:**
-
+</p>
+<p align="center">
 Nérida Isabel Manrique Tunque
-
+</p>
+<p align="center">
 **19 de noviembre del 2023**
-
 </p>
 
 ## Indice
