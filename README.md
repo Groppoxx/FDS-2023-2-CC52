@@ -1,30 +1,32 @@
 <p align="center">
   <img src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png" alt="Logo"  width="150" height="150">
 </p>
+
 <p align="center">
-**Universidad Peruana De Ciencias Aplicadas**
+<strong>Universidad Peruana De Ciencias Aplicadas</strong>
 
-**Curso:**
+<strong>Curso:</strong>
 CC216 – Fundamentos de Data Science – CC52
-**Sede Monterrico**
+<strong>Sede Monterrico</strong>
 
-**Trabajo Final:**
+<strong>Trabajo Final:</strong>
 Creación de Conocimiento Aplicando la Metodología CRISP – DM
 Tendencias de los videos de YouTube en México (MX)
 
-**Profesora:**
+<strong>Profesora:</strong>
 Nérida Isabel Manrique Tunque
 
-**19 de noviembre del 2023**
+<strong>19 de noviembre del 2023</strong>
 </p>
 
 ## Indice
-1. [Objetivo del proyecto](#Objetivo del proyecto)
-2. [Integrantes del grupo](#Integrantes del grupo)
-3. [Descripción del conjunto de datos](#Descripción del conjunto de datos)
+1. [Objetivo del proyecto](#Objetivodelproyecto)
+2. [Integrantes del grupo](#Integrantesdelgrupo)
+3. [Descripción del conjunto de datos](#Descripcióndelconjuntodedatos)
 4. [Conclusiones](#Conclusiones)
 
-##Objetivo del proyecto
+## Objetivo del proyecto
+
 El proyecto tiene como objetivo principal analizar las tendencias de los videos de YouTube en México, con el fin de proporcionar información valiosa a una consultora internacional con sede en Lima y a su cliente, una destacada empresa de marketing digital. Se busca obtener respuestas a diversas preguntas específicas que son fundamentales para satisfacer las necesidades informativas del cliente en relación con el mercado mexicano. Este análisis profundo busca brindar un conocimiento integral de las tendencias en videos de YouTube, contribuyendo así a la toma de decisiones estratégicas de la consultora y su cliente en el ámbito de la mercadotecnia digital. Las respuestas a las siguientes preguntas son fundamentales para complementar el conocimiento que se pretende estimar:
 **Por Categoría de Videos:**
 * ¿Qué categorías de videos son las de mayor tendencia?
@@ -45,7 +47,7 @@ El proyecto tiene como objetivo principal analizar las tendencias de los videos 
 * ¿Es factible predecir el número de “Vistas” o “Me gusta” o “No me gusta? 
 * ¿Los videos en tendencia son los que mayor cantidad de comentarios positivos reciben?
 
-##Integrantes del grupo
+## Integrantes del grupo
 <p align="center">
 **Alumnos:**
 | **Apellidos y Nombres** | **Código** | 
@@ -55,7 +57,7 @@ El proyecto tiene como objetivo principal analizar las tendencias de los videos 
 | Angel Ruben Zuñiga Lovera | u20191B823 | 
 </p>
 
-##Descripción del conjunto de datos
+## Descripción del conjunto de datos
 <p align="center">
 ***Tabla 2: Descripción de Variables del Conjunto de Datos “MXvideos_cc50_202101.csv"***
 | Variable               | Descripción                                              |
@@ -80,7 +82,8 @@ El proyecto tiene como objetivo principal analizar las tendencias de los videos 
 | lat                    | Latitud geográfica de la ubicación del estado            |
 | lon                    | Longitud geográfica de la ubicación del estado           |
 | geometry               | Información de geometría                                 |
-**Fuente: Elaboración propia**
+** Fuente: Elaboración propia **
 </p>
-##Conclusiones
+
+## Conclusiones
 En conclusión, el proyecto de Data Science para analizar las tendencias de videos en YouTube ha proporcionado valiosas respuestas gracias a la aplicación de técnicas especializadas de Análisis de Series Temporales, particularmente utilizando el modelo ARIMA. Sin embargo, es crucial destacar que en el proceso de obtener insights, la perseverancia es clave. La naturaleza iterativa del proyecto sugiere la importancia de revisar y reflexionar sobre las decisiones tomadas en cada etapa, especialmente considerando la metodología CRISP-DM. Si algún insight no es evidente de inmediato, la revisión cuidadosa de pasos anteriores puede revelar áreas de mejora en la salida del modelo, permitiendo ajustes significativos para una mejor comprensión de las tendencias de los videos en YouTube. La iteración y la reflexión continua son elementos esenciales para maximizar la eficacia y el valor del modelo creado en este proyecto.
